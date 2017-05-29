@@ -1,5 +1,6 @@
 
 # Predict chance of getting admission into University
+![Python 2.7](https://img.shields.io/badge/Python-2.7-brightgreen.svg)    ![Problem Logistic Regression](https://img.shields.io/badge/Problem-Logistic%20Regression-blue.svg)
 ### Problem statement
 Determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision.
 ### Dataset
@@ -13,7 +14,13 @@ Now we have to predict chance of getting admission into university (including wh
 
 **Note:This problem statement and dataset is from coursera Andrew ng machine learning [Coursework](https://www.coursera.org/learn/machine-learning)**
 
+#### Dependencies
+* jupyter
+* scipy
+* numpy
+* matplotlib
 
+Install dependencies using [pip](https://pip.pypa.io/en/stable/)
 
 ```python
 import numpy as np
@@ -63,7 +70,7 @@ plt.show()
 ```
 
 
-![png](resouces/output_4_0.png)
+![png](resources/output_4_0.png)
 
 
 
