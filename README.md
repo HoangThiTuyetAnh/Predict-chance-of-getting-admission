@@ -1,6 +1,6 @@
 
 # Predict chance of getting admission into University
-![Python 2.7](https://img.shields.io/badge/Python-2.7-brightgreen.svg)    ![Problem Logistic Regression](https://img.shields.io/badge/Problem-Logistic%20Regression-blue.svg)
+![Python 2.7](https://img.shields.io/badge/Python-2.7-brightgreen.svg)    ![Problem Logistic Regression](https://img.shields.io/badge/Problem-Classification-yellow.svg)
 ### Problem statement
 Determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision.
 ### Dataset
